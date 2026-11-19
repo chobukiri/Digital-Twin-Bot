@@ -26,6 +26,6 @@ This repository houses the infrastructure for my "Digital Twin," connecting a co
 This system serves as the central hub for my development portfolio. Below are the live repositories managed by this architecture:
 
 * **[VR Racing Simulation]** - *(Link coming soon)*
-[AR Vehicle Customization App](https://github.com/chobukiri/AR-iOS-Automotive-Application)
+* **[AR Vehicle Customization App]** - *(https://github.com/chobukiri/AR-iOS-Automotive-Application)*
 * **[Escape from Mutation - FPS (Unreal Engine 5)]** - *(Link coming soon)*
 * **[The Forest Promise - Interactive AR (Unity)]** - *(Link coming soon)*
